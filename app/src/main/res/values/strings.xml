@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">날씨 정보</string>
+    <string name="google_api_key">AIzaSyCHOn7qEd2KfIdPl7bReDobSNZUhZbg2lY</string>
+    <string name="weather_api_key">c%2Bpxe4n%2BQ7khqIShmwLlIbL7B5BI58T6XWrYM%2FH7S86vS0W2LdXbTUqZp5JIBXkrl16ybRHop0Pkq7bpyHajhQ%3D%3D</string>
+    <string name="api_url">http://apis.data.go.kr/1360000/VilageFcstInfoService_2.0/getUltraSrtFcst</string>
+</resources>
